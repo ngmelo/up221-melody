@@ -10,10 +10,7 @@ I'm interested in food systems, food justice and sovereignty, land security, env
 relate to and impact each other.
 
 ## My Objectives for UP221
-(Vaguely and broadly) I'd like to figure out how to use maps to identify the equity of access to things -- like benefits, risks, burdens -- and outcomes.
-I'm interested in figuring out (1) how to map frequencies and distributions of things that people are experiencing and, eventually, (2) how to integrate 
-ethnography into mapping so that I can facilitate mapping projects that allow communities to tell nuanced stories using both qualitative and quantitative data 
-about their history (what has happened to them) and their desired futures (what they want).
+(Vaguely and broadly) I'd like to figure out how to use maps to identify the equity of access to things -- like benefits, risks, burdens -- and outcomes. I'm interested in figuring out (1) how to map frequencies and distributions of things that people are experiencing and, eventually, (2) how to integrate ethnography into mapping so that I can facilitate mapping projects that allow communities to tell nuanced stories using both qualitative and quantitative data about their history (what has happened to them) and their desired futures (what they want).
 
 ## Potential Project Ideas
 1. I'd like to map soil quality on vacant lands and lands that are made available by policies like the LA Urban Agriculture Incentive Zone and cross reference those locations with historical land use projects and policies that have potentially impacted land quality
